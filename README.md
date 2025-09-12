@@ -14,7 +14,7 @@ The goal of this project is to analyze housing data, extract meaningful insights
 ## Dataset Overview
 
 The dataset used in this project comes from Kaggle’s competition:
-👉 House Prices: Advanced Regression Techniques
+👉 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 To run the notebook, download the dataset from Kaggle and place the files in the Dataset/ folder with the following structure:
 
@@ -23,7 +23,6 @@ Dataset/
 ├── train.csv   
 └── test.csv   
    ```
-
 
 ## Getting Started
 
@@ -40,8 +39,3 @@ To get started with this project:
      ```bash
      pip install -r requirements.txt
      ```
-
----
-
-Happy predicting!
-````
